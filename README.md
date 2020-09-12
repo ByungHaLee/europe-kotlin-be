@@ -21,4 +21,8 @@ run
 ### `gradlew.bat test`
 
 
+## References
 
+https://www.baeldung.com/kotlin-jpa
+
+https://spring.io/guides/tutorials/spring-boot-kotlin/
